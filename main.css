@@ -1,0 +1,27 @@
+img {
+  width: 50%;
+  border-radius: 10px;
+  border: 10px solid #ffffff;
+}
+
+.carousel-content {
+display: none;
+}
+
+.carousel-content.active {
+display: block;
+}
+
+.previous, .next {
+color: #ffffff;
+margin: 10px 30px;
+}
+
+.control:hover, .previous:hover, .next:hover {
+  background: #39b81a;
+  border: 1px solid #39b81a;
+}
+
+.next {
+
+}
