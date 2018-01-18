@@ -5,8 +5,8 @@
     speed: 700,
     slideDuration: 3000
   }
-  $('.carousel').slideDown(opts);
-  console.log("pupas");
+  $('.carousel').slideDown(opts); 
+  console.log("Wubba Lubba Dub-Dub");
 }); */
 
 $(document).ready(loadPage);
